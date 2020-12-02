@@ -1,0 +1,2 @@
+www.python.org/downloads/release/python-380/		(Download to local machine and install)
+pip install pygame==2.0.0				(Run as command)
