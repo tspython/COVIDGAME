@@ -193,7 +193,7 @@ def stage_one_setup():
         "   You see a person coming towards you, they are too close."
     )
     context_five = Message("    So you must stay away from them.")
-    context_six = Message("    W to walk left.")
+    context_six = Message("    A to walk left.")
     context_seven = Message("    D to walk right.")
     context_eight = Message("    Space to jump.")
     context_nine = Message("    Get to 20 points to not get infected.")
